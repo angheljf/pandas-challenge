@@ -19,7 +19,7 @@ Your final report should include each of the following:
 
 * Total Number of Player
 
-![Player Count](Images/Player Count.JPG)
+![Player Count](Images/Player_Count.PNG)
 
 ### Purchasing Analysis (Total)
 
